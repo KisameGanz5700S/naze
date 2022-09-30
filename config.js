@@ -17,11 +17,11 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': '0e92565522',
 }
-
-// Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+kami
+// Lainnya
+global . pemilik = [ ' 6289635869163   ' ]
+global.ownernomer = "6289635869163"
+global . premium           = [ ' 6289635869163]
 global.packname = 'Sticker  Naze'
 global.author = 'Naze'
 global.sessionName = 'nazedev'
